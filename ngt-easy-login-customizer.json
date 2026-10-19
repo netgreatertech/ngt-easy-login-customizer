@@ -1,0 +1,26 @@
+{
+	"name": "NGT Easy Login Customizer",
+	"slug": "ngt-easy-login-customizer",
+	"version": "1.1.0",
+	"download_url": "https://netgreater.com/updates/plugins/ngt-easy-login-customizer-1.1.0.zip",
+	"author": "<a href=\"https://netgreater.com\">Net Greater Technologies, LLP</a>",
+	"author_homepage": "https://netgreater.com",
+	"homepage": "https://netgreater.com/ngt-easy-login-customizer/",
+	"requires": "6.0",
+	"tested": "6.9",
+	"requires_php": "8.0",
+	"last_updated": "2026-07-02 14:00:00",
+	"sections": {
+		"description": "An ultra-lightweight, high-performance security endpoint router and login interface branding decorator. Built exclusively to keep your client handoffs fast, secure, and 100% clean.",
+		"changelog": "<h4>1.1.0</h4><ul><li>New - Moved configuration panel to a dedicated, standalone admin menu for easier access.</li><li>New - Rebuilt 2-column flexbox engine for flawless mobile responsive rendering.</li><li>New - Implemented strict 404 security routing to completely block unauthenticated bot traffic on legacy paths.</li><li>New - Added dynamic text label color pickers and visual opacity sliders.</li></ul><br/><h4>1.0.0</h4><ul><li>Initial release. Deep architectural rebrand for Net Greater Technologies.</li></ul>",
+		"installation": "Upload the <code>ngt-easy-login-customizer-1.1.0.zip</code> package within your Plugins dashboard panel and activate it. Once activated, navigate directly to the new <strong>NGT Login Setting</strong> menu located in your left-hand admin sidebar to configure your secure endpoints and portal branding."
+	},
+	"icons": {
+		"1x": "https://netgreater.com/updates/assets/ngt-easy-login-customizer-128.png",
+		"2x": "https://netgreater.com/updates/assets/ngt-easy-login-customizer-256.png"
+	},
+	"banners": {
+		"low": "https://netgreater.com/updates/assets/ngt-easy-login-customizer-772x250.png",
+		"high": "https://netgreater.com/updates/assets/ngt-easy-login-customizer-1544x500.png"
+	}
+}

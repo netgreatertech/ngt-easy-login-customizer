@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NGT Easy Login Customizer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-30 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Net Greater Technologies, LLP <info@netgreater.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/class-ngt-login-security.php:11
+msgid "Security Check: Access denied due to invalid credentials."
+msgstr ""
+
+#: includes/class-ngt-login-customiser.php:15
+msgid "NGT Portal Controls"
+msgstr ""
